@@ -27,11 +27,9 @@ SECRET_KEY = 'django-insecure-#l0ij4e$3v@&xi3i#y$19f#_@z(yv+5yw$kc+02!-)g%ny%oi8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [
-    'https://git.heroku.com/housingtonny.git'
-    'localhost',
-    '127.0.0.1'
-]
+ALLOWED_HOSTS = [‘https://git.heroku.com/housingtonny.git,
+‘localhost’,
+‘127.0.0.1’]
 
 
 # Application definition

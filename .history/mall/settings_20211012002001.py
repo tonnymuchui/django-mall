@@ -29,8 +29,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'https://git.heroku.com/housingtonny.git'
-    'localhost',
-    '127.0.0.1'
 ]
 
 
